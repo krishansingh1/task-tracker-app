@@ -1,3 +1,6 @@
+# Preview of the App
+![Screenshot (40)](https://user-images.githubusercontent.com/49793696/132160653-fbe22701-25da-49e7-91b0-476daf56c6d9.png)
+
 # Getting Started with Task Tracker App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
