@@ -29,4 +29,4 @@ You will also see any lint errors in the console.
 
    Open new Tab [http://localhost:5000](http://localhost:5000) in your browser.
 
-   All data of this app dislayed in the above link.
+   All the data of this app displayed in the above link.
