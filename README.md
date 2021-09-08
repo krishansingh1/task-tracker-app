@@ -4,7 +4,7 @@
 # Link to the Application 
  [Task Tracker App](https://krishansingh1.github.io/task-tracker-app/)
  
- After opening this link follow Step 2
+ After opening this link follow Step 2.
   
 
 #Step 1:
