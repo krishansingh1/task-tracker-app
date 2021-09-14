@@ -2,7 +2,7 @@
 ![Screenshot (40)](https://user-images.githubusercontent.com/49793696/132160653-fbe22701-25da-49e7-91b0-476daf56c6d9.png)
 
 # Link to the Application 
- [Task Tracker App](https://krishansingh1.github.io/task-tracker-app/)
+ [Task Tracker App](https://krishansingh1.github.io/)
  
  After opening this link follow Step 2.
   
